@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rubber Duck 1",
+    "description": "This is a rubber duck with a yellow body and a blue hat.",
+    "imageUrl": "assets/images/duck1.jpg"
+  },
+  {
+    "name": "Rubber Duck 2",
+    "description": "This is a rubber duck with a red body and a green hat.",
+    "imageUrl": "assets/images/duck2.jpg"
+  },
+  {
+    "name": "Rubber Duck 3",
+    "description": "This is a rubber duck with a white body and a black hat.",
+    "imageUrl": "assets/images/duck3.jpg"
+  }
+]
